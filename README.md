@@ -25,3 +25,4 @@ Files are provided in .sch and .brd format.
 - Connect variable resistors to R-VOL, G-VOL, and B-VOL to adjust the current.
 - Use n-channel power MOSFETs for Q1, Q2, and Q3 and a quad operational amplifier with a typical pin assignment for the OPAMP.
 - Molex connector 53047-0510 is for connection to HOLOEYE LETO-3.
+![LD-driver](https://github.com/syoshida1983/Computer-generated-holography-resources/blob/images/LD-driver.jpg)
