@@ -20,9 +20,8 @@ Files are provided in STEP format.
 ## LD-Driver
 Circuit schematic and PCB layout of common anode 3-channel LD driver.
 Files are provided in .sch and .brd format.
-For each LD, connect the anode to the power supply (+V) and the cathode to R-LD(K), G-LD(K), or B-LD(K).
-The current between +V and R-LD(K) is determined by the ratio of the input voltage to R-DRV and the resistor R2.
-Similarly, the currents of the other two channels are determined by G-DRV and R6 and B-DRV and R10.
-Connect variable resistors to R-VOL, G-VOL, and B-VOL to adjust the current.
-Use n-channel power MOSFETs for Q1, Q2, and Q3 and a quad operational amplifier with a typical pin assignment for the OPAMP.
-Molex connector 53047-0510 is for connection to HOLOEYE LETO-3.
+- For each LD, connect the anode to the power supply (+V) and the cathode to R-LD(K), G-LD(K), or B-LD(K).
+- The current between +V and R-LD(K) is determined by the ratio of the input voltage to R-DRV and the resistor R2. Similarly, the currents of the other two channels are determined by G-DRV and R6 and B-DRV and R10.
+- Connect variable resistors to R-VOL, G-VOL, and B-VOL to adjust the current.
+- Use n-channel power MOSFETs for Q1, Q2, and Q3 and a quad operational amplifier with a typical pin assignment for the OPAMP.
+- Molex connector 53047-0510 is for connection to HOLOEYE LETO-3.
