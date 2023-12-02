@@ -1,5 +1,7 @@
 # Computer-generated holography resources
 
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2310.10093-blue.svg)](https://doi.org/10.48550/arXiv.2310.10093)
+
 ## CGH
 C++ program for hologram calculation. [Visual Studio](https://visualstudio.microsoft.com/downloads/) is required to build the program.
 
