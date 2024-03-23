@@ -1,5 +1,6 @@
 # Computer-generated holography resources
 
+[![DOI](https://img.shields.io/badge/DOI-10.1364/AO.509556-blue.svg)](https://doi.org/10.1364/AO.509556)
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2310.10093-blue.svg)](https://doi.org/10.48550/arXiv.2310.10093)
 
 ## CGH
@@ -28,3 +29,20 @@ Files are provided in .sch and .brd format.
 - Use n-channel power MOSFETs for Q1, Q2, and Q3 and a quad operational amplifier with a typical pin assignment for the OPAMP.
 - Molex connector 53047-0510 is for connection to HOLOEYE LETO-3.
 ![LD-driver](https://github.com/syoshida1983/Computer-generated-holography-resources/blob/images/LD-driver.jpg)
+
+## Citation
+```BibTeX
+@article{Yoshida2024,
+	author		= {Shuhei Yoshida},
+	doi		= {10.1364/AO.509556},
+	issue		= {10},
+	journal		= {Applied Optics},
+	month		= {3},
+	pages		= {2455-2461},
+	publisher	= {Optica Publishing Group},
+	title		= {High-speed full-color computer-generated holography using a digital micromirror device and fiber-coupled RGB laser diode},
+	volume		= {63},
+	url		= {https://opg.optica.org/ao/abstract.cfm?uri=ao-63-10-2455},
+	year		= {2024},
+}
+```
